@@ -1,0 +1,1 @@
+Adaptive landing page
